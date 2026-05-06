@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Forma Sport Alzira",
+    "tagline": "Entrena sin límites, alcanza tus metas aquí.",
+    "description": "Forma Sport Alzira es tu centro deportivo de referencia, con instalaciones amplias y equipamiento de última generación. Disfruta de un horario ininterrumpido y acceso a todos nuestros centros para que entrenes cuando y donde quieras.",
+    "phone": "",
+    "address": "Avinguda de la Llibertat d'Ensenyança, 1, 46600 Alzira, Valencia, España",
+    "email": "info@formasportalzira.es",
+    "rating": 1.8,
+    "reviewCount": 51,
+    "hours": ["Monday: 6:00 AM – 12:00 AM","Tuesday: 6:00 AM – 12:00 AM","Wednesday: 6:00 AM – 12:00 AM","Thursday: 6:00 AM – 12:00 AM","Friday: 6:00 AM – 12:00 AM","Saturday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM","Sunday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM"]
+  },
+  "theme": {
+    "primary": "#FFD700",
+    "secondary": "#1A1A1A",
+    "accent": "#E50914",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Más espacio. Más horas. Más resultados.",
+    "subheadline": "Descubre nuestras instalaciones monumentales, un horario de 6 a 24h y más de 500 clases semanales para lograr tus objetivos.",
+    "cta1": { "text": "Inscríbete Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Actividades", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_addRQGxYQ0RVQlwktmdBjM/photos/Ab43m-t5j0qhYav85DOCyQeXX3TutaoJlvR0_OjcZE6mtXb2PIvFXBAPlk5gz_y4MVAcTEf02JnE-3ntZvLNLmRwdxhCiSGc21vS0a8i6EkL4d7MX_QS21Gq85fH1L3i22wJoTDU3wWM34JpTsHRH_QXtAF1552xN5J13YXU3_pNLtX6CgqMlBw72PQKr7EneaB7PKuwRRWRarYlfb1j5L5mNpyDrzYr9l5n0tguWQ2Wi68Oz_h_yEcdkRirTA2DUHL4fgC8ehVS7lOxrsMbVA8k1m07Dn2ElC-B8XQbhmlZjIeR_0B6OCP2Y9kxkXdHAQKmK-_V1aMjKdwy_goo4Zux7Si4bPb9q5wqFPB-osuT-FGwUjGhOpzh3C9t0DNzV60CSO4zmtW3rm--P8XOMbYBPqpjiyHcYeuuhBvhtjUpQ1S2Us1ZO-VoHVFx9wloNA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "💪", "title": "Salas de Fitness y Musculación", "description": "Entrena sin esperas en nuestras amplias salas con maquinaria de última generación. Contarás con todo el material necesario para llevar tus rutinas al siguiente nivel." },
+    { "icon": "🤸‍♀️", "title": "Más de 500 Clases Semanales", "description": "Accede a un calendario completo de actividades dirigidas por instructores expertos. Todas las clases están incluidas en tu cuota, ¡sin reservas ni complicaciones!" },
+    { "icon": "🕒", "title": "Horario Extendido y Multicentro", "description": "Nos adaptamos a tu ritmo con un horario de 6h a 24h, 363 días al año. Además, con tu cuota puedes entrenar en cualquiera de nuestros centros Forma Sport." },
+    { "icon": "📋", "title": "Plan de Entrenamiento Incluido", "description": "Recibe gratis una tabla de entrenamiento personalizada para tus objetivos. Nuestros monitores de sala te guiarán para que saques el máximo partido a tu esfuerzo desde el primer día." }
+  ],
+  "about": {
+    "title": "Más de 35 Años Forjando Tu Mejor Versión",
+    "text": "Desde hace más de 35 años, Forma Sport se ha consolidado como el referente fitness en Valencia. Nacimos con la misión de ofrecer un espacio sin igual donde la comunidad y el rendimiento se encuentran, creando un ambiente que te inspira a superarte cada día.\n\nEn Forma Sport Alzira, creemos en el poder del espacio y la libertad. Por eso nuestras instalaciones son tan amplias que nunca tendrás que esperar por una máquina o reservar tu clase favorita. Nuestro equipo de instructores certificados está aquí para apoyarte, ofreciéndote planes personalizados y la mejor energía en cada actividad dirigida.",
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_addRQGxYQ0RVQlwktmdBjM/photos/Ab43m-vFV9_Z1BVaG3CM4ngP8Bx4p15nJcw4cooFgoc5cASMS2Oe_KxnV0VkevRXLUxecV5-tysilio-KXLBpV0SCfjH32ys2b3YgeNe8xYqfn8cTSRVSDus71UJAbpHgnj0nkGNmP8pdcTLXnNKuk-WFYqKPUkEuXEXuCj9vpcqGxBHPk1Bk1fQUVDsxGKTl7Q8ckUaxsvzNWb5VUD9rAlaCEc_tjvyB5-uglXbuiJg7bML47Dd4VzqeT0eX_TdnzQ5TeYHzDvhtkufcBOEL4uNTFZM0TjigtLMShXG-N9OFKWPKxgbl8aYX2ZXO_99WRV539arWRNteM0Z3stCwO5yudlkFGwb-oWcnbOJ6v53HO7SPvhAuxAGit7Ly0wahV_EkkqExSvh-o2GcJRdODiAlBWLVrMuWZUy6N3M5DvuuFbSOJEdoA5EhuZhi_u7ysDL/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ_addRQGxYQ0RVQlwktmdBjM/photos/Ab43m-uk8zINA36b7sFLakwfXRPdF0hzG5GfRehSpNsJ-jOnW_zq7tKJpnJI4gfmdzFzCM88xAJhjmf4nXzse76lK0iUIuHmXg6NEYpT-lpH0uP_p1wXSx7wqRBUj0i7GmcYvnIEAJQ653Wwlk4pgFWOzHtlkb5tVdoNGkZmIT-s0eQZNhLcwfN_ytTWaBKMrhqqhESAG0Z-tqUq2-kzuhicdWo20sWlkeiFDkBWaIIz1zlKZnznrbtNVISvmVmBjdQiET0TMiZmm5bYDbFPymoPeV5B2mj4XIYV-Psyn-pkJ9Yu0cOiL4VBQX4-HtCbyP7zv6nTBg2BVEGjl0Rfpq0X_JGPqbSIuzLL2dwZkFlTvHfYBCnBiuAwj6e3RtVkWdCqxV8QOcTlmO-8qz4g7Y-esJxnqMG_iRvq7YZFyq-wlSbuFIz_d1GO20TlwFTD1w/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Zona de musculación y peso libre en Forma Sport Alzira" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJ_addRQGxYQ0RVQlwktmdBjM/photos/Ab43m-u3BHCNDP36EWjtS6iVHJHQMRbD5Ly16hG4vpiVjnVlGw7cLOkYYt2JWKztbWHbPfMHdN1r9WJxSh7G8j0sqbfTOSCng9APHqRYGvjz-9ULUZBgcpZmlrgc2UGzMe_0RBFLtq0TGBTlRHKAw0rP_vPod9MmfWxbnIbxUN0uKNGgaX--mptvWhZupjpptwRm-0bQtri_mkWkZ0sNpWoV6epi6t5oq7tUQ3GiS78QdJlaHgCMW_8-YIIpl0Hza0M6Gm5en_YD55WUsFUJBSueDwraebPdrhfTAYaP7Dgp2j43XKhIa_vvCONCRu_lKNehdbMX6_2tu8-qHIB7wLIIm6ONXAg_8LzTsR1oo4aFz-hDFZbphFjBD7OHpcCQkgbG-QX8IgHtab2d1-oGbzRVyQZPYmGtMECjs9BPUPCJzmBabdMB-uAOQFhLQ_F0vxYh/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Amplia sala de máquinas de cardio en el gimnasio" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJ_addRQGxYQ0RVQlwktmdBjM/photos/Ab43m-vgCKAmLUtpZs92A43HhTlgu8ZYoqbiV-A7kr-JHGp8TJ-HvZvEpC9nol_jdptux33UrnLh-1dkylSZpDSQF-g3Aj8GAQzA97i_0llEVzBUuFKf3_A_qNU5si2hylmE-q2lp9pH0RlqdFpxg3yN2Q-eve-UeNKos1FeEn1wMoFfyhEv1oQNdqrcJ8A-JIf87eIAFHdH-pTdTXV6lTbIPKe33w-ArA3Y2C8nAmxs2zW44_6lz0UFDorHrXMQJ7dCzAmVNbTkUJRCaXIlsv6_hxmKsUlqW_KhEz3gV0MqAP8gcBEldrqPdYaVohF60Ho56z6wk3MbmWkk8Wfl9zmkEKZ0mUdAI5BF7SRP8A1_1yDiHmPVRXtlWXH1jxLbkj49y-Dg35HjsZHGva9WUN1qYL29FWBlvb8ndGp9ar_ifZ_bDDiZElvFfju0OXZOn9es/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Equipamiento de fuerza y entrenamiento funcional" },
+    { "url": "https://places.googleapis.com/v1/places/ChIJ_addRQGxYQ0RVQlwktmdBjM/photos/Ab43m-uj9BWaoPTasFiZ6OxGcLnqbf82mQFXhZe3E2gqcVjlpIz5RFoq5qPDY5-QC11iyqckKfJq4LRAML6P2LptDAObsKNnjoEkh-mR1hNiR1nn0ktuFrLh7tterc7pEmS8JwT6BsrPSjMmm5p4r6d6tY_u6utTzJfCd94ALT_dyZnK3tA1k29DhczKlTwKfpg_WSel32Ro5M7qcmHuvadxX-2TXcHrsnIQTBCa1nH-EwDipbXhY3skPyvgTiiaCCU6hFWc7wKMDRKeCp6Hj-usyBG6mOWMs1z9K_WcgQ312crCL4DcZQZnJIYxhGUX1CJ6TBL1mRwdZijXTWoA__FpSsVytJXdQqHp_XhGZTjPU5an8Op3f9qk8XgKcCzIfRaXsc-etVhVC9ndjP65ZQexXQFaxZ_vDlwWpJtV_JWEmVLhD857D3tZokjMqz3hGl7_/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Vistas generales de las instalaciones de Forma Sport Alzira" }
+  ],
+  "testimonials": [
+    { "name": "Laura García", "stars": 5, "text": "Me encanta la amplitud del gimnasio. Puedo hacer mi rutina sin agobios y el material es de primera. ¡El mejor centro de Alzira sin duda!" },
+    { "name": "Javier Moreno", "stars": 5, "text": "El horario es increíble, me permite venir a entrenar después del trabajo sin prisas. Los monitores son muy atentos y me ayudaron con mi tabla de ejercicios." },
+    { "name": "Sofía Ruiz", "stars": 4, "text": "Hay muchísimas clases dirigidas y todas están incluidas. El ambiente es genial y me motiva mucho a venir cada día. ¡100% recomendable!" }
+  ],
+  "contact": {
+    "title": "Únete a la Familia Forma Sport Hoy",
+    "subtitle": "Ven a conocer nuestras instalaciones o inscríbete online. ¡Tu primer paso hacia una vida más activa empieza aquí!",
+    "whatsappNumber": "",
+    "showMap": true,
+    "mapQuery": "Forma Sport Alzira Avinguda de la Llibertat d'Ensenyança, 1, 46600 Alzira, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Forma Sport Alzira"
+  }
+}
